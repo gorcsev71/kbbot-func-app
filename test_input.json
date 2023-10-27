@@ -1,0 +1,18 @@
+{
+    "values": [
+        {
+            "recordId": "1",
+            "data": {
+                "name": "document 1",
+                "text": "This is the first document and this supposed to be a bit longer than the maximum tokens we will accept. Of course, it can happen that it is not. Let us see the results."
+            }
+        },
+        {
+            "recordId": "2",
+            "data": {
+                "name": "document 2",
+                "text": "This is the second document"
+            }
+        }
+    ]
+}
